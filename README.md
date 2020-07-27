@@ -18,3 +18,20 @@ Requirements:
     csv
 
 <a href="https://www.w3schools.com">You can download the latest chrome driver from here </a>
+
+Output :
+
+![alt text](https://github.com/anupriya99/Selenium-Webscraping-Python/blob/master/scrapping_output.PNG)
+
+How to run this code :
+
+Place chromedriver and source code file in the same directory.
+
+Open the terminal 
+
+![alt text](https://github.com/anupriya99/Selenium-Webscraping-Python/blob/master/run_command.PNG)
+
+
+
+
+
